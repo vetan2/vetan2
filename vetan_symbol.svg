@@ -6,6 +6,12 @@
 	.st0{fill:#040000;}
 	.st1{fill:#FFFFFF;stroke:#040000;stroke-miterlimit:10;}
 	.st2{fill:#040000;stroke:#040000;stroke-miterlimit:10;}
+	@media (prefers-color-scheme: dark) {
+	 .st0, .st1, .st2 {
+	  fill: white;
+	}
+	}
+	
 </style>
 <g>
 	<path class="st0" d="M199.22,152.51c-55,0-81.08-7.9-93.28-14.52c-13.12-7.12-13.34-14.3-13.34-14.38v-18.1
