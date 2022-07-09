@@ -13,7 +13,7 @@
 ## Projects
 
 - [Cube Mesutong (KR)](https://cubemesu.co) - Expectation calculator web service of Online game [MapleStory](https://maplestory.nexon.com/)'s probability item "cube"  (2021.09)
-- [Mesu Live (KR)](https://mesu.live) - Simulator and expectation calculator web sergvice of Online game [MapleStory](https://maplestory.nexon.com/)'s several probability contents
+- [Mesu Live (KR)](https://mesu.live) - Simulator and expectation calculator web sergvice of Online game [MapleStory](https://maplestory.nexon.com/)'s several probability contents (2022.03)
 
 ## Skills
 ### Using
