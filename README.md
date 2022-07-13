@@ -1,6 +1,6 @@
 <div align="center">
  <img src="./vetan_symbol.svg" width="150" />
- <h3>A keyboarder who creates I want to make</h3>
+ <h3>A keyboarder who creates what he wants to make</h3>
 </div>
 
 ## Education
