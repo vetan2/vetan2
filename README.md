@@ -1,5 +1,5 @@
 <div align="center">
- <img src="./vetan_symbol2.svg" width="100" />
+ <img src="./vetan_symbol.svg" width="100" />
 </div>
 
 ## Education
