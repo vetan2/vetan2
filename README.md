@@ -7,7 +7,8 @@
 - 🏫 B.S in Computer Science & Engineering, [Sogang University](http://www.sogang.ac.kr/index.do) (2019.03 ~ )
 
 ## Career
-- 🏢 ChuneungIT as Researcher (2022.04 ~ )
+- 🏢 ChuneungIT as FE Developer (2022.04 ~ 2023.05)
+- 🏢 NgineStudio as FE Developer (2023.05 ~ 2024.06)
 
 ## Projects
 
