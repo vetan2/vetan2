@@ -8,7 +8,7 @@
 
 ## Career
 - 🏢 ChuneungIT as FE Developer (2022.04 ~ 2023.05)
-- 🏢 NgineStudio as FE Developer (2023.05 ~ 2024.06)
+- 🏢 NGINE Studio as FE Developer (2023.05 ~ 2024.06)
 
 ## Projects
 
