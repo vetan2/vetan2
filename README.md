@@ -1,6 +1,8 @@
+<!--
 <div align="center">
  <img src="./vetan_symbol.svg" width="100" />
 </div>
+-->
 
 ## Education
 
