@@ -4,14 +4,6 @@
 </div>
 -->
 
-## Education
-
-- 🏫 B.S in Computer Science & Engineering, [Sogang University](http://www.sogang.ac.kr/index.do) (2019.03 ~ )
-
-## Career
-- 🏢 ChuneungIT as FE Developer (2022.04 ~ 2023.05)
-- 🏢 NGINE Studio as FE Developer (2023.05 ~ 2024.06)
-
 ## Projects
 
 - [mesulive (KR)](https://mesu.live) - Simulator and expectation calculator web service of Online game [MapleStory](https://maplestory.nexon.com/)'s several probability contents (2022.03)
